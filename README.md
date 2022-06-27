@@ -6,7 +6,7 @@
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sakiluzzaman-9680b314b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sakiluzzaman-9680b314b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-sakiluzzaman-9680b314b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sakiluzzaman-9680b314b/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdsakiluzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdsakiluzzaman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sakilbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sakilbd" height="30" width="40" /></a>
 </p>

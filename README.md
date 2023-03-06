@@ -63,9 +63,8 @@
   <br>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=sakilbd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+  <a href="https://leetcode.card.workers.dev/sakilbd?theme=auto&font=source_code_pro&extension=null">Leetcode</>
 <hr>
 
 

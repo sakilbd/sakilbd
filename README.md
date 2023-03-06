@@ -64,7 +64,9 @@
   <br>
   <br>
 </p>
+<div align="center">
   <img src="https://leetcode.card.workers.dev/sakilbd?theme=auto&font=source_code_pro&extension=null"/>
+  </div>
 <hr>
 
 

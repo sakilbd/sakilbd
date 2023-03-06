@@ -64,7 +64,7 @@
   <br>
   <br>
 </p>
-  <a href="https://leetcode.card.workers.dev/sakilbd?theme=auto&font=source_code_pro&extension=null">Leetcode</>
+  <img src="https://leetcode.card.workers.dev/sakilbd?theme=auto&font=source_code_pro&extension=null"/>
 <hr>
 
 
